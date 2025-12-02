@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=aws,c,cpp,css,bots,docker,fastapi,gcp,github,heroku,html,js,latex,nginx,nodejs,opencv,postman,py,raspberrypi,react,rust,ts,ubuntu,vim,vscode,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,c,cpp,css,bots,docker,fastapi,gcp,github,heroku,cloudflare,html,js,latex,nginx,nodejs,opencv,postman,py,raspberrypi,react,rust,ts,ubuntu,vim,vscode,&theme=dark)](https://skillicons.dev)
 
 
 <!--
