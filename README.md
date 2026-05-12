@@ -1,17 +1,15 @@
-[![My Skills](https://skillicons.dev/icons?i=aws,c,cpp,css,bots,docker,fastapi,gcp,github,heroku,cloudflare,html,js,latex,nginx,nodejs,opencv,postman,py,raspberrypi,react,rust,ts,ubuntu,vim,vscode,&theme=dark)](https://skillicons.dev)
+mitsuijao — GitHub Profile
 
+状態: 作成中 — 学習/実験を中心に活動しています。代表的なプロジェクトや進行中の研究をここでまとめています。
 
-<!--
-**mitsuiJao/mitsuijao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+概要:
+- 学生エンジニア。主に Python, TypeScript を使った開発と組み込み系の実験を行っています。
 
-Here are some ideas to get you started:
+代表プロジェクト:
+- nishima-tech — 個人サイト（静的サイト + Next.js）
+- sotsuken — 卒業研究（データ分析 / モデル評価）
+- e-paper-server / e-paper-client — 電子ペーパー関連の実機プロジェクト
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+技術スタック: Python, TypeScript, C, MicroPython, FastAPI, Astro, Next.js
+
+Contact: GitHub Issues
