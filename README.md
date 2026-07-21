@@ -2,7 +2,7 @@
 
 最近Kubernetes勉強したいと思ってます
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,rust,js,ts,html,css,react,astro,vite,fastapi,nodejs,docker,nginx,aws,gcp,cloudflare,heroku,raspberrypi,git,github,githubactions,postman,opencv,latex,ubuntu,arch,vim,vscode,bots&theme=dark" height="128" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,rust,js,ts,html,css,react,astro,vite,fastapi,nodejs,docker,nginx,aws,gcp,cloudflare,heroku,raspberrypi,git,github,githubactions,gitlab,postman,opencv,latex,ubuntu,arch,vim,vscode,bots&theme=dark" height="128" />
 
 <!--
 **mitsuiJao/mitsuijao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
